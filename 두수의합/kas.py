@@ -1,2 +1,2 @@
 def code():
-    return code
+    return revised_code
